@@ -12,7 +12,7 @@ async function getGithubEmojiIdMap() {
         "https://api.github.com/emojis",
         {
           headers: {
-            "User-Agent": "https://github.com/ikatyang/emoji-cheat-sheet"
+            "User-Agent": "https://github.com/Joshhortt/emoji-cheat-sheet"
           }
         }
       ))

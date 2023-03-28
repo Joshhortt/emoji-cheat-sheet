@@ -2,12 +2,12 @@
   "name": "emoji-cheat-sheet",
   "version": "0.0.0-dev",
   "private": true,
-  "repository": "ikatyang/emoji-cheat-sheet",
-  "homepage": "https://github.com/ikatyang/emoji-cheat-sheet#readme",
+  "repository": "Joshhortt/emoji-cheat-sheet",
+  "homepage": "https://github.com/Joshhortt/emoji-cheat-sheet#readme",
   "author": {
     "name": "Ika",
-    "email": "ikatyang@gmail.com",
-    "url": "https://github.com/ikatyang"
+    "email": "joshhortt@yahoo.com",
+    "url": "https://github.com/Joshhortt"
   },
   "license": "MIT",
   "scripts": {
